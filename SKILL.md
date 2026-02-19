@@ -3,7 +3,7 @@ name: historical-connection
 description: A methodology for revealing how present conditions emerged from past processes, making visible the chains of cause and effect that comfortable narratives obscure. This skill connects current situat...
 license: MIT
 metadata:
-  version: 1.0.4165
+  version: 1.0.4166
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
